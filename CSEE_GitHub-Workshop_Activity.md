@@ -16,7 +16,7 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 **Question 1.** If you could be an animal for a day, which would you choose and why?
 
-*Answer:*
+*Answer:* octopus
 
 **Question 2.** Is a hot dog a sandwich? Justify your answer.
 
